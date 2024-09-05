@@ -85,10 +85,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [dahiyaamit004@gmail.com](mailto:dahiyaamit004@gmail.com).
 
 ---
 
 Happy content generating! 🎉
 
-Make sure to replace `https://github.com/your-username/ai-content-generator.git` and `your-email@example.com` with your actual GitHub repository link and contact email. Adjust other details as needed to fit your specific project.
+
