@@ -26,7 +26,7 @@ Follow these steps to set up and run the AI Content Generator app:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai-content-generator.git
+   git clone https://github.com/amitdahiya08/ai-content-generator.git
    ```
 
 2. **Navigate into the project directory:**
